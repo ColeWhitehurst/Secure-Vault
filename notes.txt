@@ -1,0 +1,13 @@
+First create a new repository.
+Then clone the repository to VS Code.
+Create the index.html file and populate it.
+Create the script.js file and link it usinf script in index.html
+Create a variable that contains the secret message.
+Create a variable for the first number.
+Create a variable for the second number.
+Create a variable for the third number.
+Create an alert that uses template literal to display the hidden message with the hidden combination.
+Test that the code works in a live preview of the browser.
+Add files to the github repository.
+Commit changes made to these files.
+Push the changes into the Github repository.
